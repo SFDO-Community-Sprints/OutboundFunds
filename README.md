@@ -1,4 +1,4 @@
-### Project Name
+### Outbound Funds
 Choose a self-explaining name for your project.
 
 ### Project Team

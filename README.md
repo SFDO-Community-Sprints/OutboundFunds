@@ -6,10 +6,10 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 * Team Leader(s): Shari Carlson Reily
 * GitHub Scribe(s): Shari Carlson Reily
 * List of all Contributors:
-- Mark Adcock
-- Libby Ziemelis
-- Thom Behrens
-- Stan Reeser
+Mark Adcock
+Libby Ziemelis
+Thom Behrens
+Stan Reeser
 
 ### Project Vision (Your first task as a team)
 

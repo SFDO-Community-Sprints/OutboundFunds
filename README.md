@@ -19,9 +19,13 @@ https://github.com/SFDO-Community/OutboundFunds
 
 ### Project Team Accomplishments
 !. Created Funding Request Role junction object 
-2. Schedule GAU Expenditures code 
+2. Manage GAU Expenditures code 
 3. 
 
+### Day 2 Goals: 
+1. Enhanced Related lists (update in package) 
+2. OBF in a box - demo org and slide deck for presentations
+3. Continue work on Manage GAU Expenditures 
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 Often, it takes multiple Sprints to contribute an idea back into the Community. What happens at a Sprint does not stay at a Sprint! If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?<br><br>

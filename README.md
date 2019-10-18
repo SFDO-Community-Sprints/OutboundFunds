@@ -20,6 +20,7 @@ https://github.com/SFDO-Community/OutboundFunds
 ### Project Team Accomplishments
 1. Created Funding Request Role junction object (Issue #21: https://github.com/SFDO-Community/OutboundFunds/issues/21)
 2. Manage GAU Expenditures code (Issue #36: https://github.com/SFDO-Community/OutboundFunds/issues/36)
+3. How to contribute guide 
 
 ### Day 2 Goals: 
 1. Enhanced Related lists (update in package)

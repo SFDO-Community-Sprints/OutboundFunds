@@ -1,5 +1,5 @@
 ### Outbound Funds
-Choose a self-explaining name for your project.
+Continuation of work on the Outbound FUnds App
 
 ### Project Team
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
@@ -18,8 +18,8 @@ Stan Reeser
 https://github.com/SFDO-Community/OutboundFunds
 
 ### Project Team Accomplishments
-!. Created Funding Request Role junction object 
-2. Manage GAU Expenditures code 
+!. Created Funding Request Role junction object (Issue #21: https://github.com/SFDO-Community/OutboundFunds/issues/21)
+2. Manage GAU Expenditures code (Issue #36: https://github.com/SFDO-Community/OutboundFunds/issues/36)
 
 ### Day 2 Goals: 
 1. Enhanced Related lists (update in package) 

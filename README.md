@@ -18,7 +18,7 @@ Stan Reeser
 https://github.com/SFDO-Community/OutboundFunds
 
 ### Project Team Accomplishments
-!. Created Funding Request Role junction object (Issue #21: https://github.com/SFDO-Community/OutboundFunds/issues/21)
+1. Created Funding Request Role junction object (Issue #21: https://github.com/SFDO-Community/OutboundFunds/issues/21)
 2. Manage GAU Expenditures code (Issue #36: https://github.com/SFDO-Community/OutboundFunds/issues/36)
 
 ### Day 2 Goals: 

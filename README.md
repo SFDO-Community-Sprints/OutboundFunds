@@ -22,7 +22,7 @@ https://github.com/SFDO-Community/OutboundFunds
 2. Manage GAU Expenditures code (Issue #36: https://github.com/SFDO-Community/OutboundFunds/issues/36)
 
 ### Day 2 Goals: 
-1. Enhanced Related lists (update in package) 
+1. Enhanced Related lists (update in package)
 2. OBF in a box - demo org and slide deck for presentations
 3. Continue work on Manage GAU Expenditures 
 

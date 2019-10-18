@@ -23,5 +23,6 @@ https://github.com/SFDO-Community/OutboundFunds
 3. How to contribute guide 
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
+We will continue to work on the issues and enhancements in our GitHub. Please reach out if you want to learn more or contribute. 
 
 

@@ -26,3 +26,18 @@ https://github.com/SFDO-Community/OutboundFunds
 We will continue to work on the issues and enhancements in our GitHub. Please reach out if you want to learn more or contribute. 
 
 
+
+Summary of Outbound Funds work at Detroit Sprint
+
+### Project Team
+
+* Team Leader: Bill Corkil, Shari Reily
+* List of Contributors: Libby Ziemelis, Sally Burns, Sean Cuevo, David Glick
+
+### Project Team Accomplishments
+- Create Installer in MetaPloy (David Glick) 
+- Update "Create Disbursements" lightning component to account for "remaining funds to be disbursed"
+- Recorded 2 NPSP Videography scripts for Outbound Funds
+- Onboarded group to CCI for branching, code review and merging. 
+
+See Outbound Funds repo for additional info: https://github.com/SFDO-Community/OutboundFunds/wiki

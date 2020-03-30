@@ -1,3 +1,30 @@
+Summary of Outbound Funds work at Virtual Sprint
+
+### Outbound Funds
+Continuation of work on the Outbound Funds App
+
+### Project Team
+Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
+* Team Leader(s): Shari Carlson
+* GitHub Scribe(s): Shari Carlson
+* List of all Contributors:
+
+
+### Project Vision (Your first task as a team)
+
+
+### Project Resources
+https://github.com/SFDO-Community/OutboundFunds
+
+### Project Team Accomplishments
+
+
+### Future Contributions (AKA what were you unable to finish at the Sprint)
+We will continue to work on the issues and enhancements in our GitHub. Please reach out if you want to learn more or contribute. 
+
+
+
+
 Summary of Outbound Funds work at Philadelphia Sprint
 
 ### Outbound Funds

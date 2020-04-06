@@ -7,14 +7,14 @@ Continuation of work on the Outbound Funds App
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
 * Team Leader(s): Shari Carlson
 * GitHub Scribe(s): Shari Carlson
-* List of all Contributors:
-* Bill Corkill
-* Thom Behrens
-* Ashima Saigal
-* Deepa Bedi
-* Neil Harmon
-* Felice Carson
-
+* List of all Contributors: <br>
+Bill Corkill <br>
+Thom Behrens <br>
+Ashima Saigal <br>
+Deepa Bedi <br>
+Neil Harmon <br>
+Felice Carson <br>
+<br>
 EDU: Financial Aid group joined for day 2: Emma Hutchinson and Yina Chun
 
 ### Project Vision (Your first task as a team)

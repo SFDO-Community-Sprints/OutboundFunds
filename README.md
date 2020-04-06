@@ -8,12 +8,12 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 * Team Leader(s): Shari Carlson
 * GitHub Scribe(s): Shari Carlson
 * List of all Contributors:
-Bill Corkill
-Thom Behrens
-Ashima Saigal
-Deepa Bedi
-Neil Harmon
-Felice Carson
+* Bill Corkill
+* Thom Behrens
+* Ashima Saigal
+* Deepa Bedi
+* Neil Harmon
+* Felice Carson
 
 EDU: Financial Aid group joined for day 2: Emma Hutchinson and Yina Chun
 

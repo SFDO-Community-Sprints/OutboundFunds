@@ -1,4 +1,4 @@
-Summary of Outbound Funds work at Virtual Sprint
+## Summary of Outbound Funds work at Virtual Sprint (4/2020)
 
 ### Outbound Funds
 Continuation of work on the Outbound Funds App
@@ -14,17 +14,24 @@ Ashima Saigal <br>
 Deepa Bedi <br>
 Neil Harmon <br>
 Felice Carson <br>
-<br>
+Katie Powell <br>
 EDU: Financial Aid group joined for day 2: Emma Hutchinson and Yina Chun
 
-### Project Vision (Your first task as a team)
+### Sprint Summary 
+We spent the majority of the sprint discussiong and making decision on proposed Enhancements as well as conversations with other groups. Thom worked on some Lightning Component enhancements and Katie worked on reviewing and updating documentation.
 
 
 ### Project Resources
 https://github.com/SFDO-Community/OutboundFunds
 
 ### Project Team Accomplishments
+Reviewed the following items on the issues list from https://github.com/SFDO-Community/OutboundFunds (click on links to view discussion notes) 
+* Disbursement Tab - https://github.com/SFDO-Community/OutboundFunds/issues/49
+* Milestone_Record_Page - https://github.com/SFDO-Community/OutboundFunds/issues/34
+* item 3
+* 
 
+* Discussed how EDU: Financial Aid team could potentially utilize Outbound Fund data model 
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 We will continue to work on the issues and enhancements in our GitHub. Please reach out if you want to learn more or contribute. 
@@ -32,7 +39,7 @@ We will continue to work on the issues and enhancements in our GitHub. Please re
 
 
 
-Summary of Outbound Funds work at Philadelphia Sprint
+## Summary of Outbound Funds work at Philadelphia Sprint
 
 ### Outbound Funds
 Continuation of work on the Outbound Funds App
@@ -63,7 +70,7 @@ We will continue to work on the issues and enhancements in our GitHub. Please re
 
 
 
-Summary of Outbound Funds work at Detroit Sprint
+## Summary of Outbound Funds work at Detroit Sprint
 
 ### Project Team
 

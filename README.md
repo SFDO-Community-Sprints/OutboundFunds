@@ -5,10 +5,9 @@ Continuation of work on the Outbound Funds App
 
 ### Project Team
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
-* Team Leader(s): Shari Carlson
+* Team Leader(s): Shari Carlson, Bill Corkill
 * GitHub Scribe(s): Shari Carlson
 * List of all Contributors: <br>
-Bill Corkill <br>
 Thom Behrens <br>
 Ashima Saigal <br>
 Deepa Bedi <br>
@@ -18,8 +17,7 @@ Katie Powell <br>
 EDU: Financial Aid group joined for day 2: Emma Hutchinson and Yina Chun
 
 ### Sprint Summary 
-We spent the majority of the sprint discussiong and making decision on proposed Enhancements as well as conversations with other groups. Thom worked on some Lightning Component enhancements and Katie worked on reviewing and updating documentation.
-
+We spent the majority of the sprint discussiong and making decision on proposed Enhancements as well as conversations with other groups. Thom worked on Lightning Component enhancements and Katie worked on reviewing and updating documentation.
 
 ### Project Resources
 https://github.com/SFDO-Community/OutboundFunds
@@ -28,10 +26,13 @@ https://github.com/SFDO-Community/OutboundFunds
 Reviewed the following items on the issues list from https://github.com/SFDO-Community/OutboundFunds (click on links to view discussion notes) 
 * Disbursement Tab - https://github.com/SFDO-Community/OutboundFunds/issues/49
 * Milestone_Record_Page - https://github.com/SFDO-Community/OutboundFunds/issues/34
-* item 3
-* 
+* Add Next Requirement Date field on Funding Request - https://github.com/SFDO-Community/OutboundFunds/issues/41
+* Add Primary Field to Funding Request Role - https://github.com/SFDO-Community/OutboundFunds/issues/42
+* Link Funding Request Role to Disbursements and Requirements (closed) - https://github.com/SFDO-Community/OutboundFunds/issues/43
+* Custom Permission Sets - https://github.com/SFDO-Community/OutboundFunds/issues/23
 
 * Discussed how EDU: Financial Aid team could potentially utilize Outbound Fund data model 
+* Updates were made to the documentation (including this issue: https://github.com/SFDO-Community/OutboundFunds/issues/35) 
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 We will continue to work on the issues and enhancements in our GitHub. Please reach out if you want to learn more or contribute. 

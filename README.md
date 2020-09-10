@@ -28,11 +28,11 @@ David Bruce (Attain (Partner Main))<br>
 
 ### Sprint Potential Topics
 <ol>
-<li>Discuss requirements for a GAU-like object for non-NPSP orgs (aka Nick's idea shared above) </li>
+<li>Discuss requirements for a GAU-like object for non-NPSP orgs </li>
 <li>How OBM, PMM, NPSP interact/could work together (And maybe maybe how paid apps could play too) </li>
 <li>Continue to explore EDA connections (bringing in the Financial Aid conversation from the last sprint)</li>
 <li>(maybe) if there is a developer - like Thom Behrens - work on the translation issue that was raised in the HUB</li>
-<li>there is an impact group at the sprint - so there may be some overlapping conversations with that team</li>
+<li>There is an impact group at the sprint - so there may be some overlapping conversations with that team</li>
 <li>Reporting, maybe a reporting workbook of sorts</li>
   </ol>
 

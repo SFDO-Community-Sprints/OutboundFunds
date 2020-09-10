@@ -24,6 +24,7 @@ Allison Letts (Attain (Partner Main))<br>
 Tom Neuburger (Smith College)<br>
 Thom Behrens (The Sierra Club Foundation)<br>
 Emily Jakubiak (Cloud for Good) <br>
+David Bruce (Attain (Partner Main))<br>
 
 ### Sprint Potential Topics
 <ol>

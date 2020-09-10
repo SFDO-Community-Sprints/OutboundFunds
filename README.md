@@ -1,3 +1,60 @@
+## Summary of Outbound Funds work at Virtual Sprint (9/2020)
+
+### Outbound Funds
+Continuation of work on the Outbound Funds Module
+
+### Project Team
+Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
+* Team Leader(s): Shari Carlson, Stan Reeser
+* GitHub Scribe(s): Shari Carlson
+* List of all Contributors: <br>
+Nick Lindberg (University of Minnesota - Carlson School of Management)<br>
+Shari Carlson (North Peak (Partner Main)<br>
+Kimberly Schaefges (salesforce.com)<br>
+Farah Charania (Individual)<br>
+Rachel Tewelde (salesforce.com)<br>
+Cheri Lovell (The Strategic Org (Partner Main))<br>
+Alexa Adams (Philadelphia Community Bail Fund)<br>
+Irina Rodina (The Good Food Institute)<br>
+Emily Wilson (Data Geeks Lab)<br>
+Maida Rider (Jesuit Refugee Service - USA)<br>
+Stan Reeser (Independent Consultant)<br>
+Emma Hutchinson (Appirio (Partner Main))<br>
+Allison Letts (Attain (Partner Main))<br>
+Tom Neuburger (Smith College)<br>
+Thom Behrens (The Sierra Club Foundation)<br>
+Emily Jakubiak (Cloud for Good) <br>
+
+### Sprint Potential Topics
+<ol>
+<li>Discuss requirements for a GAU-like object for non-NPSP orgs (aka Nick's idea shared above) </li>
+<li>How OBM, PMM, NPSP interact/could work together (And maybe maybe how paid apps could play too) </li>
+<li>Continue to explore EDA connections (bringing in the Financial Aid conversation from the last sprint)</li>
+<li>(maybe) if there is a developer - like Thom Behrens - work on the translation issue that was raised in the HUB</li>
+<li>there is an impact group at the sprint - so there may be some overlapping conversations with that team</li>
+<li>Reporting, maybe a reporting workbook of sorts</li>
+  </ol>
+
+### Sprint Summary 
+<ol>
+  <li> </li>
+  </ol>
+
+### Project Resources
+https://github.com/SFDO-Community/OutboundFunds
+
+### Project Team Accomplishments
+Reviewed the following items on the issues list from (click on links to view discussion notes) 
+
+### Future Contributions (AKA what were you unable to finish at the Sprint)
+We will continue to work on the issues and enhancements in our GitHub. Please reach out if you want to learn more or contribute. 
+
+
+
+
+
+
+
 ## Summary of Outbound Funds work at Virtual Sprint (4/2020)
 
 ### Outbound Funds

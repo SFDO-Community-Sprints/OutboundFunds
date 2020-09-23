@@ -29,14 +29,27 @@ David Bruce (Attain (Partner Main))<br>
 ### Sprint Potential Topics
 <ol>
 <li>Discuss requirements for a GAU-like object for non-NPSP orgs </li>
-  <ul> <li>- EDA - scholarships, for profit use cases </li>
- <li> - some orgs would prefer to just Funding Program (idea?) </li>
- <li>  - same objects in multiple packages (e.g. Affiliations in EDA and NPSP)</li> </ul>
+ <ul> <li> EDA - scholarships, for profit use cases </li>
+ <li> some orgs would prefer to just Funding Program (idea?) </li>
+ <li> same objects in multiple packages (e.g. Affiliations in EDA and NPSP)</li> 
+ </ul>
 <li>How OBM, PMM, NPSP interact/could work together (And maybe maybe how paid apps could play too) </li>
+  <ul> <li> PMM group conversation tomorrow ? </li>
+    <li> raise funds, give away - hows that org going to use those funds? </li>
+  </ul> 
 <li>Continue to explore EDA connections (bringing in the Financial Aid conversation from the last sprint)</li>
-<li>(maybe) if there is a developer - like Thom Behrens - work on the translation issue that was raised in the HUB</li>
-<li>There is an impact group at the sprint - so there may be some overlapping conversations with that team</li>
+  <ul> <li> EDA might be more largely applicable than a few other topics </li>
+  <li> we grant X, a full year later - this is where the fund came from - could the time gap be managed with OFM</li>
+    <li> 
+  </ul>
+<li>(maybe) if there is a developer - like Thom Behrens - work on the translation issue that was raised in the HUB </li>
+<li>There is an impact group at the sprint - so there may be some overlapping conversations with that team </li>
+  <ul> <li> David - interest area - measurement of impact  </li>
+  </ul>
 <li>Reporting, maybe a reporting workbook of sorts</li>
+  <ul> <li> Useful </li>
+    <li> could be related to impact and other business cases </li>
+    <li> adoption and usability </li>
   </ol>
 
 ### Sprint Summary 

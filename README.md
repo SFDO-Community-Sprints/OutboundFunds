@@ -50,6 +50,11 @@ David Bruce (Attain (Partner Main))<br>
   <ul> <li> Useful </li>
     <li> could be related to impact and other business cases </li>
     <li> adoption and usability </li>
+   
+  <li>  Transition documentation</li>
+  <ul> <li> at least in the HUB link on the side </li> </ul>
+  
+  
   </ol>
 
 ### Sprint Summary 

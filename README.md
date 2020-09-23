@@ -29,6 +29,9 @@ David Bruce (Attain (Partner Main))<br>
 ### Sprint Potential Topics
 <ol>
 <li>Discuss requirements for a GAU-like object for non-NPSP orgs </li>
+  <ul> <li>- EDA - scholarships, for profit use cases </li>
+ <li> - some orgs would prefer to just Funding Program (idea?) </li>
+ <li>  - same objects in multiple packages (e.g. Affiliations in EDA and NPSP)</li> </ul>
 <li>How OBM, PMM, NPSP interact/could work together (And maybe maybe how paid apps could play too) </li>
 <li>Continue to explore EDA connections (bringing in the Financial Aid conversation from the last sprint)</li>
 <li>(maybe) if there is a developer - like Thom Behrens - work on the translation issue that was raised in the HUB</li>

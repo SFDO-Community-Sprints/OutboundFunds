@@ -81,11 +81,11 @@ https://github.com/SFDO-Community/OutboundFunds
 
 ### Project Team Accomplishments
 Reviewed the following items on the issues list from (click on links to view discussion notes) 
-https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/1
-https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/6
-https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/10
-https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/9
-https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/8
+* GAU-like object for non-NPSP orgs - https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/1
+* Reporting Workbook - https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/6
+* Connect GAU/Fund to Funding Program - https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/10
+* Non-NPSP Package Rollups - https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/9
+* Automate the creation of GAU Expenditure / Fund Expenditure - https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/8
 
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)

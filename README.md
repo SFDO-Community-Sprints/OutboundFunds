@@ -39,7 +39,6 @@ Katie Powell (salesforce)<br>
 <li>Continue to explore EDA connections (bringing in the Financial Aid conversation from the last sprint)</li>
   <ul> <li> EDA might be more largely applicable than a few other topics </li>
   <li> we grant X, a full year later - this is where the fund came from - could the time gap be managed with OFM</li>
-    <li> 
   </ul>
 <li>(maybe) if there is a developer - like Thom Behrens - work on the translation issue that was raised in the HUB </li>
 <li>There is an impact group at the sprint - so there may be some overlapping conversations with that team </li>

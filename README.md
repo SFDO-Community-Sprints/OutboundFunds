@@ -11,7 +11,7 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 Nick Lindberg (University of Minnesota - Carlson School of Management)<br>
 Shari Carlson (North Peak)<br>
 Kimberly Schaefges (salesforce.com)<br>
-Farah Charania (Individual)<br>
+Farah Charania (Signiforce)<br>
 Rachel Tewelde (salesforce.com)<br>
 Alexa Adams (Philadelphia Community Bail Fund)<br>
 Irina Rodina (The Good Food Institute)<br>
@@ -60,17 +60,33 @@ Katie Powell (salesforce)<br>
 <ol>
   <li> <b>Day 1</b>
    <ol>
-    <li> Discussed requirements and finalized the design of the object model.</li>
+    <li> Discussed requirements and finalized the design of the object model for the GAU-like object for non-NPSP orgs</li>
+    <li> Started a prototype for the GAU-like object for non-NPSP orgs</li>
+    <li> Created initial reporting workbook and identified use cases: https://docs.google.com/document/d/1wkiVFQ_PK6ui4E3K8aBorNcQeP54viWZfYHq0-I-N6s/edit</li>
    </ol>
  </li>
  <li> <b>Day 2</b>
-  </ol>
+  <ol>
+    <li> Finalized the object model for the GAU-like object for non-NPSP orgs: https://user-images.githubusercontent.com/45673708/94176033-1f5fb100-fe5d-11ea-9ca4-4fc87331f861.jpg</li>
+    <li> Finalized the prototype for the GAU-like object for non-NPSP orgs</li>
+    <li> Discussed requirements for connecting Funding Program to GAU/Fund</li>
+    <li> Created initial data model to connect Funding Program to GAU/Fund along with recommendations on next steps: https://jamboard.google.com/d/1uxRI60RHHsm01IKQYhfic_6lIzbcleDKAwgboCPaTEo/viewer?f=0 </li>
+   <li> Completed 2 use cases and started 4 other use cases in the reporting workbook</li>
+   </ol>
+ </li>
+</ol>
 
 ### Project Resources
 https://github.com/SFDO-Community/OutboundFunds
 
 ### Project Team Accomplishments
 Reviewed the following items on the issues list from (click on links to view discussion notes) 
+https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/1
+https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/6
+https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/10
+https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/9
+https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/8
+
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 We will continue to work on the issues and enhancements in our GitHub. Please reach out if you want to learn more or contribute. 

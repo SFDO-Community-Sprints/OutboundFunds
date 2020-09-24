@@ -59,6 +59,9 @@ Katie Powell (salesforce)<br>
 ### Sprint Summary 
 <ol>
   <li> <b>Day 1</b>
+   <ol>
+    <li> Discussed requirements and finalized the design of the object model.</li>
+   </ol>
  </li>
  <li> <b>Day 2</b>
   </ol>

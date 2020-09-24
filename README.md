@@ -9,22 +9,21 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 * GitHub Scribe(s): Shari Carlson
 * List of all Contributors: <br>
 Nick Lindberg (University of Minnesota - Carlson School of Management)<br>
-Shari Carlson (North Peak (Partner Main)<br>
+Shari Carlson (North Peak)<br>
 Kimberly Schaefges (salesforce.com)<br>
 Farah Charania (Individual)<br>
 Rachel Tewelde (salesforce.com)<br>
-Cheri Lovell (The Strategic Org (Partner Main))<br>
 Alexa Adams (Philadelphia Community Bail Fund)<br>
 Irina Rodina (The Good Food Institute)<br>
 Emily Wilson (Data Geeks Lab)<br>
 Maida Rider (Jesuit Refugee Service - USA)<br>
 Stan Reeser (Independent Consultant)<br>
-Emma Hutchinson (Appirio (Partner Main))<br>
 Allison Letts (Attain (Partner Main))<br>
 Tom Neuburger (Smith College)<br>
-Thom Behrens (The Sierra Club Foundation)<br>
 Emily Jakubiak (Cloud for Good) <br>
 David Bruce (Attain (Partner Main))<br>
+Kushi () <br>
+Katie Powell (salesforce)<br>
 
 ### Sprint Potential Topics
 <ol>
@@ -59,7 +58,9 @@ David Bruce (Attain (Partner Main))<br>
 
 ### Sprint Summary 
 <ol>
-  <li> </li>
+  <li> <b>Day 1</b>
+ </li>
+ <li> <b>Day 2</b>
   </ol>
 
 ### Project Resources

@@ -6,7 +6,7 @@ Continuation of work on the Outbound Funds Module
 ### Project Team
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
 * Team Leader(s): Shari Carlson, Stan Reeser
-* GitHub Scribe(s): Shari Carlson
+* GitHub Scribe(s): Shari Carlson, Allison Letts, Farah Charania
 * List of all Contributors: <br>
 Nick Lindberg (University of Minnesota - Carlson School of Management)<br>
 Shari Carlson (North Peak)<br>

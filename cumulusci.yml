@@ -1,0 +1,20 @@
+project:
+  name: OutboundFundsGAU
+  package:
+    name: OutboundFundsGAU
+    api_version: "49.0"
+  dependencies:
+    - github: "https://github.com/SalesforceFoundation/OutboundFunds"
+  source_format: sfdx
+
+tasks:
+  robot:
+    options:
+      suites: robot/OutboundFundsGAU/tests
+      options:
+        outputdir: robot/OutboundFundsGAU/results
+
+  robot_testdoc:
+    options:
+      path: robot/OutboundFundsGAU/tests
+      output: robot/OutboundFundsGAU/doc/OutboundFundsGAU_tests.html

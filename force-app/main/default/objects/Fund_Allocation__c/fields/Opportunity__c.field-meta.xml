@@ -7,8 +7,8 @@
     <inlineHelpText>Attributes allocations to an opportunity. All opportunities in a closed and won stage will be rolled up to this allocation&apos;s fund.</inlineHelpText>
     <label>Opportunity</label>
     <referenceTo>Opportunity</referenceTo>
-    <relationshipLabel>Funds</relationshipLabel>
-    <relationshipName>Funds</relationshipName>
+    <relationshipLabel>Fund Allocations</relationshipLabel>
+    <relationshipName>Fund_Allocations</relationshipName>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>

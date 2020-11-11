@@ -8,6 +8,12 @@ project:
   source_format: sfdx
 
 tasks:
+  deploy_dev_config:
+    description: Deploys the post install configuration for an unmanaged DE org
+    class_path: cumulusci.tasks.salesforce.Deploy
+    options:
+      path: unpackaged/config/dev
+
   robot:
     options:
       suites: robot/OutboundFundsGAU/tests
@@ -18,3 +24,11 @@ tasks:
     options:
       path: robot/OutboundFundsGAU/tests
       output: robot/OutboundFundsGAU/doc/OutboundFundsGAU_tests.html
+
+flows:
+  config_dev:
+    steps:
+      3:
+        task: deploy_dev_config
+      4:
+        task: load_dataset

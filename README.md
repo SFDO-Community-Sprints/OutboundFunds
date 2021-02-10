@@ -1,4 +1,4 @@
-## Summary of Outbound Funds work at Virtual Sprint (9/2020)
+## Summary of Outbound Funds work at Virtual Sprint (2/2021)
 
 ### Outbound Funds
 Continuation of work on the Outbound Funds Module
@@ -7,7 +7,20 @@ Continuation of work on the Outbound Funds Module
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
 * Team Leader(s): Shari Carlson, Nick LIndberg
 * GitHub Scribe(s): 
-* List of all Contributors: <br>
+* List of all Contributors:<br>
+<ul>
+  <li>Junette Tan <</li>
+  <li>David Chater</li>
+  <li>Corey Snow</li>
+  <li>Myke Andrews</li> 
+  <li> Lara Kimberly</li>
+  <li>Libby Ziemelis</li>
+  <li>Caroline Renard</li>
+  <li>Nicole Smith </li>
+  <li>Tammy Silverthorne</li>
+  <li>Cheri Lovell</li>
+  <li>Maida Rider</li>
+  </ul>
 
 
 ### Sprint Potential Topics

@@ -4,8 +4,7 @@ project:
     name: SpinoffOutboundFundsNPSP
     api_version: "49.0"
   dependencies:
-        - github: "https://github.com/SalesforceFoundation/NPSP"
-        - github: "https://github.com/SFDO-Community/OutboundFunds"
+    - github: "https://github.com/SalesforceFoundation/NPSP"
     - github: "https://github.com/SalesforceFoundation/OutboundFunds"
   source_format: sfdx
 
@@ -34,3 +33,10 @@ flows:
         task: deploy_dev_config
       4:
         task: load_dataset
+
+  dependencies:
+    steps:
+      1:
+        task: update_dependencies
+        options:
+          include_beta: False

@@ -92,56 +92,6 @@ CREATE TABLE "Fund_Allocation__c" (
 	"Opportunity__c" VARCHAR(255), 
 	PRIMARY KEY (id)
 );
-INSERT INTO "Fund_Allocation__c" VALUES(1,'100000.0','2','1');
-INSERT INTO "Fund_Allocation__c" VALUES(2,'125000.0','2','3');
-INSERT INTO "Fund_Allocation__c" VALUES(3,'100000.0','1','1');
-INSERT INTO "Fund_Allocation__c" VALUES(4,'300000.0','3','1');
-INSERT INTO "Fund_Allocation__c" VALUES(5,'250000.0','1','2');
-CREATE TABLE "Fund_Expenditure__c" (
-	id INTEGER NOT NULL, 
-	"Amount__c" VARCHAR(255), 
-	"Disbursement__c" VARCHAR(255), 
-	"Fund__c" VARCHAR(255), 
-	PRIMARY KEY (id)
-);
-INSERT INTO "Fund_Expenditure__c" VALUES(1,'10000.0','23','1');
-INSERT INTO "Fund_Expenditure__c" VALUES(2,'65667.0','3','3');
-INSERT INTO "Fund_Expenditure__c" VALUES(3,'2500.0','13','1');
-INSERT INTO "Fund_Expenditure__c" VALUES(4,'10000.0','7','3');
-INSERT INTO "Fund_Expenditure__c" VALUES(5,'15000.0','8','3');
-INSERT INTO "Fund_Expenditure__c" VALUES(6,'125345.0','2','3');
-INSERT INTO "Fund_Expenditure__c" VALUES(7,'5000.0','21','2');
-INSERT INTO "Fund_Expenditure__c" VALUES(8,'15000.0','20','2');
-INSERT INTO "Fund_Expenditure__c" VALUES(9,'50000.0','17','1');
-INSERT INTO "Fund_Expenditure__c" VALUES(10,'2500.0','12','3');
-INSERT INTO "Fund_Expenditure__c" VALUES(11,'25000.0','23','2');
-INSERT INTO "Fund_Expenditure__c" VALUES(12,'50000.0','16','1');
-INSERT INTO "Fund_Expenditure__c" VALUES(13,'10000.0','18','2');
-INSERT INTO "Fund_Expenditure__c" VALUES(14,'10000.0','8','2');
-INSERT INTO "Fund_Expenditure__c" VALUES(15,'15000.0','7','2');
-INSERT INTO "Fund_Expenditure__c" VALUES(16,'124.0','1','3');
-INSERT INTO "Fund_Expenditure__c" VALUES(17,'5000.0','19','3');
-INSERT INTO "Fund_Expenditure__c" VALUES(18,'25000.0','22','1');
-INSERT INTO "Fund_Expenditure__c" VALUES(19,'15000.0','23','3');
-INSERT INTO "Fund_Expenditure__c" VALUES(20,'25000.0','22','2');
-CREATE TABLE "Fund__c" (
-	id INTEGER NOT NULL, 
-	"Description__c" VARCHAR(255), 
-	"Name" VARCHAR(255), 
-	PRIMARY KEY (id)
-);
-INSERT INTO "Fund__c" VALUES(1,'Deal with environmental issues throughout the world including global warming and pollution','Clean Up the World Fund');
-INSERT INTO "Fund__c" VALUES(2,'Each dollar can make a difference','Change the World Fund');
-INSERT INTO "Fund__c" VALUES(3,'Make the world a better place','In Judi We Trust Fund');
-CREATE TABLE "Funding_Plan__c" (
-	id INTEGER NOT NULL, 
-	"Name" VARCHAR(255), 
-	"Plan_Amount__c" VARCHAR(255), 
-	"Fund__c" VARCHAR(255), 
-	"Funding_Program__c" VARCHAR(255), 
-	"Parent_Funding_Plan__c" VARCHAR(255), 
-	PRIMARY KEY (id)
-);
 CREATE TABLE "Opportunity" (
 	id INTEGER NOT NULL, 
 	"CloseDate" VARCHAR(255), 

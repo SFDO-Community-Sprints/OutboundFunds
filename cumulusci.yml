@@ -1,9 +1,11 @@
 project:
-  name: OutboundFundsGAU
+  name: SpinoffOutboundFundsNPSP
   package:
-    name: OutboundFundsGAU
+    name: SpinoffOutboundFundsNPSP
     api_version: "49.0"
   dependencies:
+        - github: "https://github.com/SalesforceFoundation/NPSP"
+        - github: "https://github.com/SFDO-Community/OutboundFunds"
     - github: "https://github.com/SalesforceFoundation/OutboundFunds"
   source_format: sfdx
 

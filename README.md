@@ -60,6 +60,8 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 
 * David developed flow
     * Will share code
+* Caroline added screenshots to report samples for new use cases: https://docs.google.com/document/d/1wkiVFQ_PK6ui4E3K8aBorNcQeP54viWZfYHq0-I-N6s/edit?ts=60245c57#
+* Discussed ideas of using reports on Lightning pages to capture rollups as graphs as an additional option to fields. 
 
 *Data Dictionary*
 

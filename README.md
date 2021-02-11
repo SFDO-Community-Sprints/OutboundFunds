@@ -38,9 +38,8 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 <H2>Day 1</H2>
 <ol>
   <li>Introductions  </li>
-  <li>Brainstroming ideas to discuss - jamboard: <a href= "https://jamboard.google.com/d/11eWq6E-dlKZGjQV0SQZ5D-GELIFRu5-TAuHF8bo_Tjw/viewer?f=0" Jamboard </a> </li>
+  <li>Brainstroming ideas to discuss - <a href= "https://jamboard.google.com/d/11eWq6E-dlKZGjQV0SQZ5D-GELIFRu5-TAuHF8bo_Tjw/viewer?f=0"> Jamboard </a> </li>
   <li>Discussed Rollups - notes found on <a href= "https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/12"> Issue 12</a>  </li>
-  <li>  </li>
   </ol>
   
   <H2>Day 2</H2>
@@ -51,8 +50,12 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
   <li>Topics to Discuss: </li>
   <ul>
     <li>Rollups </li>
-    <li> </li>
-    <li> </li>
+    <li>Directly relate inbound GAU allocation to outbound GAU disbursment and/or funding request - not just the GAU category, but the specific inbound funds </li>
+    <li>Customize fields displayed on Create Disbursement popup</li>
+    <li>OFM to PMM connection </li>
+    <li>List email that can pull in Funding Request Fields </li>
+    <li>Multi-currency </li>
+    <li> Discuss/Add topics not dicussed as Issues to be addressed at future sprints</li>  
     </ul>
   </ol>
 

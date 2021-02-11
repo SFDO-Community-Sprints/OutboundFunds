@@ -20,7 +20,7 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
   <li>Tammy Silverthorne</li>
   <li>Cheri Lovell</li>
   <li>Maida Rider</li>
-  <.li>Cid</li>
+  <li>Cid</li>
   </ul>
 
 

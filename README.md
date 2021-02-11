@@ -9,7 +9,7 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 * GitHub Scribe(s): 
 * List of all Contributors:<br>
 <ul>
-  <li>Junette Tan <</li>
+  <li>Junette Tan </li>
   <li>David Chater</li>
   <li>Corey Snow</li>
   <li>Myke Andrews</li> 
@@ -20,6 +20,7 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
   <li>Tammy Silverthorne</li>
   <li>Cheri Lovell</li>
   <li>Maida Rider</li>
+  <.li>Cid</li>
   </ul>
 
 
@@ -30,13 +31,30 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 <li>data dictionary work and storytelling for the whys for certain fields</li>
 <li>exploring rollups for lookup relationships</li>
 <li>(and other ideas people bring with them to the sprint)</li>
-  
-  
+ 
   </ol>
 
 ### Sprint Summary 
 <H2>Day 1</H2>
-
+<ol>
+  <li>Introductions  </li>
+  <li>Brainstroming ideas to discuss - jamboard: <a href= "https://jamboard.google.com/d/11eWq6E-dlKZGjQV0SQZ5D-GELIFRu5-TAuHF8bo_Tjw/viewer?f=0" Jamboard </a> </li>
+  <li>Discussed Rollups - notes found on <a href= "https://github.com/SFDO-Community-Sprints/OutboundFunds/issues/12"> Issue 12</a>  </li>
+  <li>  </li>
+  </ol>
+  
+  <H2>Day 2</H2>
+<ol>
+  <li>Reporting Workbook  </li>
+  <li>Data Dictionary  </li>
+  <li>Upgrade Guide   </li>
+  <li>Topics to Discuss: </li>
+  <ul>
+    <li>Rollups </li>
+    <li> </li>
+    <li> </li>
+    </ul>
+  </ol>
 
 ### Project Resources
 https://github.com/SFDO-Community/OutboundFunds

@@ -47,6 +47,7 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
   <li>Reporting Workbook  </li>
   <li>Data Dictionary  </li>
   <li>Upgrade Guide   </li>
+  Confirmed upgrade guide steps work.  Will transfer to Salesforce to review and update
   <li>Topics to Discuss: </li>
   <ul>
     <li>Rollups </li>

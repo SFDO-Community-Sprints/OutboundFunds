@@ -43,22 +43,52 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
   </ol>
   
   <H2>Day 2</H2>
-<ol>
-  <li>Reporting Workbook  </li>
-  <li>Data Dictionary  </li>
-  <li>Upgrade Guide   </li>
-  Confirmed upgrade guide steps work.  Will transfer to Salesforce to review and update
-  <li>Topics to Discuss: </li>
-  <ul>
-    <li>Rollups </li>
-    <li>Directly relate inbound GAU allocation to outbound GAU disbursment and/or funding request - not just the GAU category, but the specific inbound funds </li>
-    <li>Customize fields displayed on Create Disbursement popup</li>
-    <li>OFM to PMM connection </li>
-    <li>List email that can pull in Funding Request Fields </li>
-    <li>Multi-currency </li>
-    <li> Discuss/Add topics not dicussed as Issues to be addressed at future sprints</li>  
-    </ul>
-  </ol>
+*Touch Base and Recap from Yesterday*
+
+* Rollups
+* Funding Program to GAU (budgeting concept)
+* Reports
+* Data Dictionary 
+* Upgrade Guide
+
+*Upgrade Guide*
+
+* Almost complete, still needs final editing from Docs
+* https://docs.google.com/document/d/1AvsIw5AhnR9rYYTgi1xulekKnqAQ1YiLAYogH0wg4dE/edit?usp=sharing (starting on page 10)
+
+*Rollups*
+
+* David developed flow
+    * Will share code
+
+*Data Dictionary*
+
+* Highlight areas that need extra input
+
+*General Features*
+
+* What’s Working
+    * Many things are working well! :)
+* What Needs Improvement
+    * *Funding Request Hierarchical Relationships*
+        * Example: a grantee receives an award, but later the grantee needs additional funding for unexpected expenses. This happens frequently for David’s clients.
+            * It’s almost a separate grant and request, but linked to a parent grant
+        * Amendment to exist as its own, need for audit trail, want to show up in totals for reporting
+            * Challenge as a separate object: doesn’t show up in Funding Requests reporting
+            * Challenge as a separate Funding Request: two separate, unlinked records
+    * *Field Sets on Dialogue Boxes*
+
+        * Adding Beginning Date to Disbursements
+            * First Date doesn’t always equal Beginning Date
+        * No out-of-the-box solution
+            * Need Apex controller class
+        * Cheri added an Issue for future sprint work
+
+*Snowfakery*
+
+* Junette initiating this to create test data easily
+
+
 
 ### Project Resources
 https://github.com/SFDO-Community/OutboundFunds

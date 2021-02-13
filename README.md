@@ -59,7 +59,7 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 *Rollups*
 
 * David developed flow
-    * Will share code
+    * Code for Basic Roll Up added as branch
     * Scheduled flow, runs nightly on all accounts
     * Options for providing to users
         * Include in post-install instructions

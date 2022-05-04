@@ -1,4 +1,4 @@
-## Summary of Outbound Funds work at Virtual Sprint (2/2021) Test
+## Summary of Outbound Funds work at Virtual Sprint (2/2021) 
 
 ### Outbound Funds
 Continuation of work on the Outbound Funds Module

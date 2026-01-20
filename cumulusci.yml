@@ -1,0 +1,34 @@
+project:
+  name: OutboundFundsGAU
+  package:
+    name: OutboundFundsGAU
+    api_version: "49.0"
+  dependencies:
+    - github: "https://github.com/SalesforceFoundation/OutboundFunds"
+  source_format: sfdx
+
+tasks:
+  deploy_dev_config:
+    description: Deploys the post install configuration for an unmanaged DE org
+    class_path: cumulusci.tasks.salesforce.Deploy
+    options:
+      path: unpackaged/config/dev
+
+  robot:
+    options:
+      suites: robot/OutboundFundsGAU/tests
+      options:
+        outputdir: robot/OutboundFundsGAU/results
+
+  robot_testdoc:
+    options:
+      path: robot/OutboundFundsGAU/tests
+      output: robot/OutboundFundsGAU/doc/OutboundFundsGAU_tests.html
+
+flows:
+  config_dev:
+    steps:
+      3:
+        task: deploy_dev_config
+      4:
+        task: load_dataset

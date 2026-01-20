@@ -1,0 +1,121 @@
+Insert Account:
+  sf_object: Account
+  fields:
+  - Name
+  lookups:
+    ParentId:
+      table: Account
+      after: Insert Account
+Insert Fund__c:
+  sf_object: Fund__c
+  fields:
+  - Description__c
+  - Name
+Insert outfunds__Funding_Program__c:
+  sf_object: outfunds__Funding_Program__c
+  fields:
+  - Name
+  - outfunds__Description__c
+  - outfunds__End_Date__c
+  - outfunds__Start_Date__c
+  - outfunds__Status__c
+  - outfunds__Top_Level__c
+  - outfunds__Total_Program_Amount__c
+  lookups:
+    outfunds__Parent_Funding_Program__c:
+      table: outfunds__Funding_Program__c
+      after: Insert outfunds__Funding_Program__c
+Insert Contact:
+  sf_object: Contact
+  fields:
+  - DoNotCall
+  - FirstName
+  - HasOptedOutOfEmail
+  - HasOptedOutOfFax
+  - LastName
+  lookups:
+    AccountId:
+      table: Account
+    ReportsToId:
+      table: Contact
+      after: Insert Contact
+Insert Funding_Plan__c:
+  sf_object: Funding_Plan__c
+  fields:
+  - Name
+  - Plan_Amount__c
+  lookups:
+    Fund__c:
+      table: Fund__c
+    Funding_Program__c:
+      table: outfunds__Funding_Program__c
+    Parent_Funding_Plan__c:
+      table: Funding_Plan__c
+      after: Insert Funding_Plan__c
+Insert Opportunity:
+  sf_object: Opportunity
+  fields:
+  - CloseDate
+  - IsPrivate
+  - Name
+  - StageName
+  lookups:
+    AccountId:
+      table: Account
+    ContactId:
+      table: Contact
+Insert outfunds__Funding_Request__c:
+  sf_object: outfunds__Funding_Request__c
+  fields:
+  - Name
+  - outfunds__Application_Date__c
+  - outfunds__Awarded_Amount__c
+  - outfunds__Awarded_Date__c
+  - outfunds__Close_Date__c
+  - outfunds__Closed_reason__c
+  - outfunds__Geographical_Area_Served__c
+  - outfunds__Population_Served__c
+  - outfunds__Recommended_Amount__c
+  - outfunds__Requested_Amount__c
+  - outfunds__Requested_For__c
+  - outfunds__Status__c
+  - outfunds__Term_End_Date__c
+  - outfunds__Term_Start_Date__c
+  - outfunds__Terms__c
+  lookups:
+    outfunds__Applying_Contact__c:
+      table: Contact
+    outfunds__Applying_Organization__c:
+      table: Account
+    outfunds__FundingProgram__c:
+      table: outfunds__Funding_Program__c
+Insert Fund_Allocation__c:
+  sf_object: Fund_Allocation__c
+  fields:
+  - Amount__c
+  lookups:
+    Fund__c:
+      table: Fund__c
+    Opportunity__c:
+      table: Opportunity
+Insert outfunds__Disbursement__c:
+  sf_object: outfunds__Disbursement__c
+  fields:
+  - outfunds__Amount__c
+  - outfunds__Disbursement_Date__c
+  - outfunds__Disbursement_Method__c
+  - outfunds__Scheduled_Date__c
+  - outfunds__Status__c
+  - outfunds__Type__c
+  lookups:
+    outfunds__Funding_Request__c:
+      table: outfunds__Funding_Request__c
+Insert Fund_Expenditure__c:
+  sf_object: Fund_Expenditure__c
+  fields:
+  - Amount__c
+  lookups:
+    Disbursement__c:
+      table: outfunds__Disbursement__c
+    Fund__c:
+      table: Fund__c
